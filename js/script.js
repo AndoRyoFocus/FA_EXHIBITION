@@ -40,7 +40,7 @@ $(function () {
   var header = $('.header')
   sidebtn.hide();
   header.hide();
-
+    
   var winW = $(window).width();
   var devW = 900;
   if (winW >= devW) {
